@@ -65,6 +65,18 @@ My portfolio projects, demo systems, and code samples are available here:
 
 ---
 
+## 🚀 Featured Projects
+
+### 🔹 Web Scraping Demo
+Python-based scraping script that extracts structured product data and exports it to CSV.  
+👉 https://github.com/denmassyarif/web-scraping-demo
+
+### 🔹 Scraping Web Demo (Live)
+Simple web interface displaying scraped data using HTML & CSS.  
+🌐 https://denmassyarif.github.io/scraping-web-demo/
+
+---
+
 ## 💼 Work Experience
 
 **Web Developer**  
@@ -90,3 +102,6 @@ My portfolio projects, demo systems, and code samples are available here:
 ---
 
 ⭐ *Feel free to explore my repositories or reach out for remote collaboration opportunities.*
+
+📫 Interested in remote collaboration or freelance projects?  
+Feel free to reach out via email or GitHub.
