@@ -1,95 +1,92 @@
-# 👋 Hi, I'm **Syarif Hidayatullah**
-### 🔹 Digital Marketing Specialist | Web Developer | Graphic Designer  
+# 👋 Hi, I'm Syarif Hidayatullah
+
+**Web Developer | Web Scraping & Automation Specialist**  
 📍 Indonesia | 🌍 Open for Remote Work (Global)
 
 ---
 
-## 🧑‍💼 **About Me**
-I am a multi-disciplinary professional with over **10 years of experience** in  
-**Digital Marketing, Web Development, and Graphic Design**.  
-My expertise ranges from SEO optimization, content creation, online advertising,  
-brand development, e-commerce management, and leading creative teams.
+## 🚀 About Me
 
-I have a proven track record of driving online growth, increasing traffic, and scaling digital revenue—  
-including helping a company reach **$35,000/month in online sales**.
+I am a **Web Developer** with a strong focus on building functional, responsive websites and **data-driven solutions through web scraping and automation**. I have experience developing clean, user-friendly web interfaces while designing systems that efficiently collect, process, and organize data from multiple online sources.
+
+With a background in **web development, digital marketing, and system-based reporting**, I bring a practical and business-oriented approach to every project. I am comfortable working independently or collaboratively in remote teams and consistently aim to build systems that are efficient, scalable, and easy to maintain.
 
 ---
 
-## 🚀 **Professional Experience**
+## ⭐ Professional Highlights
 
-### **⭐ PT Jogja Store Corpora — Senior Digital Marketing & Creative Lead (2020–2025)**
-- Led a team of 6 in creative production & marketing execution  
-- Developed market trends and digital strategies generating **$35,000+ monthly sales**  
-- Managed SEO, website performance, brand identity, and content strategy  
-- Produced high-quality visual and marketing assets for e-commerce growth  
-
----
-
-### **⭐ PT Tunas Ridean Tbk — Digital Marketing Supervisor (2017–2020)**
-- Promoted from staff to supervisor for exceptional performance  
-- Executed SEO campaigns and improved website traffic significantly  
-- Created result-driven content and online marketing strategies  
-- Strengthened digital brand visibility through performance analytics  
+- Experienced in developing responsive websites and landing pages to support business and marketing goals  
+- Skilled in web scraping and structured data processing for research, reporting, and optimization  
+- Strong in automation and data handling using spreadsheets and web-based tools  
+- Able to bridge technical implementation with business needs  
+- Remote-ready, self-managed, and comfortable working with international teams  
 
 ---
 
-### **⭐ TOKOEKU — Co-Founder (2016–2017)**
-- Delivered design, website creation, and IT services  
-- Managed end-to-end client projects  
-- Built customized branding and website solutions for SMEs  
+## 🛠️ Tech Stack
+
+### Web Development
+- HTML5, CSS3, JavaScript  
+- PHP  
+- WordPress  
+
+### Web Scraping & Automation
+- Python (Requests, BeautifulSoup, Playwright)  
+- Web Data Extraction & Processing  
+- Automation Workflow (Form → Data → Report)
+
+### Database & Data Handling
+- MySQL  
+- Google Sheets Automation  
+- Microsoft Excel (Advanced Formulas & Reporting)
+
+### Design & Visual
+- Canva  
+- Adobe Photoshop  
+- CorelDRAW  
 
 ---
 
-### **⭐ PT Lintas Sarana — Accounting Admin, Web Developer & Designer (2013–2015)**
-- Built foundations in programming & graphic design  
-- Assisted in monthly financial reporting  
-- Produced digital content and marketing materials  
+## 🌐 Portfolio
+
+My portfolio projects, demo systems, and code samples are available here:  
+👉 **https://github.com/denmassyarif**
+
+> This GitHub profile represents my work in web development, data scraping, automation, and system-based solutions.
 
 ---
 
-## 🎓 **Education**
-- **Bachelor’s Degree in Management (Economics)**  
-  Universitas Pamulang (2013–2017)
+## 📌 Selected Project (Demo)
+
+**Automated Web & Data System**  
+- Built a landing page integrated with automated data collection  
+- Implemented web scraping to support product research and optimization  
+- Created reporting workflows for structured data analysis  
 
 ---
 
-## 🛠️ **Skills**
+## 💼 Work Experience
 
-### **Design**
-- Adobe Photoshop (Intermediate)  
-- CorelDRAW (Intermediate)
+**Web Developer**  
+*PT Jogja Store Corpora | 2020 – 2025*  
+- Performed web data collection and scraping to support product research  
+- Optimized digital systems to support e-commerce growth  
+- Developed landing pages to support marketing campaigns and improve conversion performance  
 
-### **Web Development**
-- HTML, CSS, Basic JS  
-- CMS customization  
-- Data Scraping (Beginner)
-
-### **Digital Marketing**
-- SEO optimization  
-- Content strategy  
-- E-commerce management  
-- Social media growth  
-- Market trend analysis  
-
-### **Leadership**
-- Team management  
-- Project coordination  
-- Creative direction  
+**Intern Web Developer**  
+*PT Tunas Ridean Tbk | 2017 – 2020*  
+- Assisted in internal web systems and application development for the tax division  
+- Processed and structured large datasets to improve reporting accuracy  
+- Built internal web-based tools to support reporting needs  
 
 ---
 
-## 📧 **Contact**
-- **Email:** denmas.syarif@gmail.com  
-- **Phone:** 0877-7766-6041  
-- **Location:** Indonesia  
-- Open for **Remote Work Opportunities (Global)**  
+## 📫 Contact
+
+- 📧 Email: denmas.syarif@gmail.com  
+- 💻 GitHub: https://github.com/denmassyarif  
+- 🌍 Open for: **Remote Web Development, Web Scraping & Automation Roles**
 
 ---
 
-## 🎵 **Interests**
-- Music  
-- Sports  
-
----
-
-### ⭐ *Thanks for visiting my GitHub CV! Feel free to reach out for collaboration or remote job opportunities.*
+⭐ *Feel free to explore my repositories or reach out for remote collaboration opportunities.*
